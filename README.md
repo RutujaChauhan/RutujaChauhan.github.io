@@ -32,7 +32,7 @@ I bring extensive expertise as a Data Engineer and Analyst, specializing in conv
         <img src="images/google-advanced-data-analytics-certificate.png" alt="" height="50" hspace="20">
     </a>
     <a href="https://www.coursera.org/account/accomplishments/verify/GFQGSQ2JMRM2" target="_blank">
-        <img src="images/image-1.png" alt="" height="50" hspace="20">
+        <img src="images/stats.png" alt="" height="50" hspace="20">
     </a>
     <a href="https://codebasics.io/certificate/CB-49-30497" target="_blank">
         <img src="images/Code BAsis.png" alt="" height="50" hspace="20">
@@ -64,13 +64,13 @@ I bring extensive expertise as a Data Engineer and Analyst, specializing in conv
 
 <p algin="center">
     <a href="https://www.linkedin.com/in/rutuja-chauhan/" target="_blank">
-        <img src="images/image-3.png" alt="" height="50" hspace="20">
+        <img src="images/linkedin.png" alt="" height="50" hspace="20">
     </a>
     <a href="mailto:ruchauhan95@gmail.com" target="_blank">
-        <img src="images/image-7.png" alt="" height="50" hspace="20">
+        <img src="images/email.png" alt="" height="50" hspace="20">
     </a>
     <a href="wa.me/919529317636" target="_blank">
-        <img src="images/image-6.png" alt="" height="50" hspace="20">
+        <img src="images/whts.png" alt="" height="50" hspace="20">
     </a>
 </p>
 
